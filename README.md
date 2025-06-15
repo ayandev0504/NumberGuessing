@@ -1,1 +1,2 @@
 # NumberGuessingGame
+Developed an interactive Number Guessing Game with a graphical user interface using Python’s Tkinter library. The game includes logic to randomly generate a number between 1 and 20, provides dynamic feedback based on the user's guess accuracy, and tracks the number of attempts. Implemented a game loop with a “Play Again” feature that resets the game state without restarting the application.
